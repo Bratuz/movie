@@ -31,7 +31,8 @@ ratings_table = "imperial-ally-417007.assignments2.rates"
 links_table = "imperial-ally-417007.assignments2.links"
 model_table = "imperial-ally-417007.assignments2.MF-model"
 api_key = '207912d5baefe0c44b96b8f6a8110005'
-credentials = service_account.Credentials.from_service_account_file(jsonkey_file_path)
+credentials = service_account.Credentials.from_service_account_info(jsonkey_file_path)
+
 client_query = bigquery.Client(credentials=credentials)
 
 
