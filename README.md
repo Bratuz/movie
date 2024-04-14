@@ -8,3 +8,7 @@ This project implements a movie recommendation application on the Google Cloud p
 
 ## Issues
 The recommendation functionalities were not successfully implemented in this version of the project.
+
+### Visit the Deployed Applications:
+- **Backend**: [https://movie-reco5-b4owfwjgaq-oa.a.run.app](https://movie-reco5-b4owfwjgaq-oa.a.run.app)
+- **Streamlit**: [https://movie-reco-steamlit-b4owfwjgaq-oa.a.run.app](https://movie-reco-steamlit-b4owfwjgaq-oa.a.run.app)
